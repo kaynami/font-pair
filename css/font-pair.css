@@ -14,7 +14,7 @@ p {
 
 /*Pair*/
 .font-cabin { font-family: 'Cabin', sans-serif; }
-.font-roboto { font-family: 'Roboto Condensed', sans-serif; }
+.font-roboto-condensed { font-family: 'Roboto Condensed', sans-serif; }
 
 /*Pair*/
 .font-playfair { font-family: 'Playfair Display', serif; }
@@ -30,7 +30,7 @@ p {
 
 /*Pair*/
 .font-lora { font-family: 'Lora', serif; }
-.font-roboto { font-family: 'Lora', serif; }
+.font-roboto { font-family: 'Roboto', serif; }
 
 
 
