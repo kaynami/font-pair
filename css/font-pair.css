@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,700&family=Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Ruda&display=swap');
 
 
 p {
@@ -35,12 +35,13 @@ p {
 .font-lora { font-family: 'Lora', serif; }
 .font-roboto { font-family: 'Roboto', serif; }
 
-
 /*Pair*/
 .font-abril { font-family: 'Abril Fatface', cursive; }
 .font-poppins { font-family: 'Poppins', sans-serif; }
 
-
+/*Pair*/
+.font-roboto-slab { font-family: 'Roboto Slab', serif; }
+.font-ruda {font-family: 'Ruda', sans-serif;}
 
 
 
