@@ -6,6 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,700&family=Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins:wght@300&display=swap');
 
 
 
@@ -35,7 +36,9 @@ p {
 .font-roboto { font-family: 'Roboto', serif; }
 
 
-
+/*Pair*/
+.font-abril { font-family: 'Abril Fatface', cursive; }
+.font-poppins { font-family: 'Poppins', sans-serif; }
 
 
 
