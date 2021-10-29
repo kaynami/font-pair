@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Ruda&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=Fira+Sans&display=swap');
 
 
 p {
@@ -44,6 +45,9 @@ p {
 .font-roboto-slab { font-family: 'Roboto Slab', serif; }
 .font-ruda {font-family: 'Ruda', sans-serif;}
 
+/*Pair*/
+.font-cormorant {font-family: 'Cormorant Garamond', serif;}
+.font-fira-sans {font-family: 'Fira Sans', sans-serif;}
 
 
 
