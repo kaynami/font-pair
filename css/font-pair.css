@@ -23,7 +23,7 @@ p {
 .font-roboto-condensed { font-family: 'Roboto Condensed', sans-serif; }
 
 /*Pair*/
-.font-playfair-bold { font-family: 'Playfair Display', serif; font-weight: 700;}
+.font-playfair-bold { font-family: 'Playfair Display', serif; font-weight: 800;text-align: center}
 .font-work-sans { font-family: 'Work Sans', sans-serif; }
 
 /*Pair*/
@@ -54,7 +54,10 @@ p {
 .font-playfair-regular {font-family: 'Playfair Display', serif; font-weight: 400;}
 .font-pt-sans{font-family: 'PT Sans', sans-serif;}
 
-
+.card:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
 
 
 
