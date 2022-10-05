@@ -10,6 +10,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Ruda&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=Fira+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pontano+Sans&family=Stint+Ultra+Expanded&display=swap');
 
 
 p {
@@ -54,12 +55,6 @@ p {
 .font-playfair-regular {font-family: 'Playfair Display', serif; font-weight: 400;}
 .font-pt-sans{font-family: 'PT Sans', sans-serif;}
 
-
-
-
-
-
-
-
-
-
+/*Pair*/
+.font-stint-ultra-expanded {font-family: 'Stint Ultra Expanded', cursive;}
+.font-pontano-sans {font-family: 'Pontano Sans', sans-serif;}
