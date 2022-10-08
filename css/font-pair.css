@@ -1,6 +1,3 @@
-
-
-
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Work+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cabin&family=Roboto+Condensed:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@300&display=swap');
@@ -10,12 +7,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Ruda&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=Fira+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&family=Playfair+Display&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Pontano+Sans&family=Stint+Ultra+Expanded&display=swap');
+
 
 /* New Add 2022 */
+@import url('https://fonts.googleapis.com/css2?family=Pontano+Sans&family=Stint+Ultra+Expanded&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Italiana&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@700&family=Poiret+One&display=swap');
 
 
 p {
@@ -23,6 +20,11 @@ p {
     margin-bottom: 0;
     line-height: 1em;
 }
+
+
+/*Pair*/
+.font-eb-garamond { font-family: 'EB Garamond', serif; }
+.font-poiret-one { font-family: 'Poiret One', cursive; }
 
 
 /*Pair*/
