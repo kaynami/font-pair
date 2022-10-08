@@ -12,12 +12,23 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&family=Playfair+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pontano+Sans&family=Stint+Ultra+Expanded&display=swap');
 
+/* New Add 2022 */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Italiana&display=swap');
+
+
+
 
 p {
     color: #6c757d;
     margin-bottom: 0;
     line-height: 1em;
 }
+
+
+/*Pair*/
+.font-cinzel { font-family: 'Cinzel', serif; }
+.font-italiana {  font-family: 'Italiana', serif; }
+
 
 /*Pair*/
 .font-cabin { font-family: 'Cabin', sans-serif; }
