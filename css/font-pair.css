@@ -23,12 +23,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Kreon&family=Ubuntu:wght@700&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Nunito+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@700&family=Maitree&display=swap');
 
 p {
     color: #6c757d;
     margin-bottom: 0;
     line-height: 1em;
 }
+
+/*Pair*/
+.font-atma-bold {font-family: 'Atma', cursive;}
+.font-maitree-regular {font-family: 'Maitree', serif;}
+
+
 /*Pair*/
 .font-metal-mania-regular {font-family: 'Metal Mania', cursive;}
 .font-nunito-sans {font-family: 'Nunito Sans', sans-serif;}
