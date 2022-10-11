@@ -16,11 +16,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mulish:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=PT+Sans:wght@700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Work+Sans:wght@700&display=swap');
+
 p {
     color: #6c757d;
     margin-bottom: 0;
     line-height: 1em;
 }
+
+/*Pair*/
+.font-merriweather-bold {font-family: 'Merriweather', serif;}
+.font-worksans-regular {font-family: 'Work Sans', sans-serif;}
+
 
 /*Pair*/
 .font-nunito { font-family: 'Nunito', sans-serif; }
