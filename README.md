@@ -6,5 +6,5 @@ Choose from New Testament and Old Testament font pairings
 
 # New Feature
 1. Copy and Paste with just click of a button.
-    a. Select an entire verse and click copy to clipboard. This feature helps users in moving lines from one page to another. 
-   
+    a. Select an entire verse and click copy to clipboard. This feature helps users in moving lines from one page to another.
+    b. Individual Copy buttons under each verse to provide easy access to users.
