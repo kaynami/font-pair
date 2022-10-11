@@ -20,12 +20,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Playfair+Display:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Gentium+Book+Basic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kreon&family=Ubuntu:wght@700&display=swap');
 
 p {
     color: #6c757d;
     margin-bottom: 0;
     line-height: 1em;
 }
+
+/*Pair*/
+.font-kreon-regular {font-family: 'Kreon', serif;}
+.font-ubuntu-bold {font-family: 'Ubuntu', sans-serif;}
+
 
 /*Pair*/
 .font-alfaslab-regular {font-family: 'Alfa Slab One', cursive;}
